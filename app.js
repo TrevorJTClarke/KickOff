@@ -1,5 +1,4 @@
 var express  = require('express'),
-    async    = require("async"),
     config   = require('./config'),
 	app      = express(),
 	server   = require('http').createServer(app);

@@ -10,4 +10,4 @@ Created by: Trevor Clarke
 #### Start Node:
 <code>$ cd app/directory</code>
 
-<code>$ node app</code>
+<code>$ ./run.sh</code>
